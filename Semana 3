@@ -1,1 +1,32 @@
+Análisis de Datos: Consumo de Combustible (Automobile Dataset)
+Este repositorio contiene el desarrollo práctico de la Clase N° 3 de Aprendizaje Automático, enfocado en la inspección, limpieza y visualización de datos utilizando Python, Pandas y Matplotlib.
 
+Descripción del Proyecto
+El objetivo principal de esta actividad es explorar el conjunto de datos Automobile.csv para identificar patrones, tendencias y correlaciones que sirvan de base para futuros modelos de aprendizaje automático. A través de la visualización, analizamos cómo factores como el peso del vehículo y la cantidad de cilindros influyen directamente en la eficiencia del combustible (MPG).
+
+Temas desarrollados
+El trabajo se estructura en las siguientes técnicas de visualización:
+
+Análisis Exploratorio de Datos (EDA): Carga, inspección y limpieza de datos (gestión de valores nulos).
+
+Gráficos de Dispersión: Análisis de correlación entre peso y consumo.
+
+Ajuste Polinomial: Modelado de tendencias no lineales mediante ajustes de segundo grado.
+
+Visualización Multidimensional: Uso de mapas de calor (viridis) para estratificar datos según variables categóricas (cilindros).
+
+Tecnologías utilizadas
+Lenguaje: Python
+
+Plataforma: Google Colab
+
+Librerías: - pandas (Manipulación de datos)
+
+matplotlib (Visualización)
+
+numpy (Cálculos matemáticos para ajustes polinomiales)
+
+Resultados
+Se logró confirmar que existe una correlación negativa significativa entre el peso del vehículo y su eficiencia, y que esta relación se ajusta mejor a modelos no lineales. Asimismo, se determinó una alta consistencia en los datos, sin presencia de valores atípicos (outliers) que pudieran sesgar un futuro proceso de entrenamiento.
+
+Desarrollado como parte de la formación en Aprendizaje Automático.
