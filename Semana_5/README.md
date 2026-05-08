@@ -37,6 +37,24 @@ Un modelo lineal para problemas de clasificación.
 **K-Nearest Neighbors (KNN):** 
 Un algoritmo basado en la proximidad de los puntos de datos. Se incluye una optimización para encontrar el mejor valor de k.
 
+### Análisis y Explicación de la Optimización de K en KNN
+
+El gráfico de 'Optimización de K en KNN' muestra cómo la precisión (Accuracy) del modelo K-Nearest Neighbors varía según el número de vecinos (`k`) que se consideran. El valor de `k` es un hiperparámetro crucial en KNN: un `k` muy pequeño puede hacer que el modelo sea sensible al ruido en los datos, mientras que un `k` muy grande puede hacer que el modelo sea demasiado general y pierda detalles importantes.
+
+#### ¿Cómo se realiza la optimización?
+
+1.  **Iteración sobre `k`**: El código itera a través de diferentes valores de `k`, desde 1 hasta 10 en este caso.
+2.  **Entrenamiento y Predicción**: Para cada valor de `k`, se entrena un nuevo modelo `KNeighborsClassifier` con `n_neighbors=k` utilizando los datos de entrenamiento (`X_train`, `y_train`). Luego, se usa este modelo para predecir las etiquetas en el conjunto de prueba (`X_test`).
+3.  **Cálculo de Accuracy**: La `accuracy_score` entre las predicciones (`pred`) y las etiquetas reales (`y_test`) se calcula para cada `k` y se almacena en la lista `scores`.
+4.  **Visualización**: Finalmente, se grafica el `accuracy` obtenido para cada `k` contra los valores de `k` (`range(1,11)`). El eje X representa el valor de `K` y el eje Y representa la `Accuracy`.
+
+#### ¿Cómo se visualiza e interpreta en el gráfico?
+
+*   **El Eje X (`Valor de K`)**: Indica el número de vecinos que el algoritmo KNN está considerando para clasificar un nuevo punto de datos.
+*   **El Eje Y (`Accuracy`)**: Muestra la precisión del modelo en el conjunto de prueba para ese `k` particular. Una mayor precisión indica un mejor rendimiento del modelo.
+
+Al observar el gráfico, el objetivo es encontrar el valor de `k` donde la línea de `Accuracy` alcanza su punto más alto (o se estabiliza en un valor alto). Este punto representa el `k` óptimo que equilibra el sesgo y la varianza, proporcionando el mejor rendimiento predictivo del modelo KNN para este conjunto de datos. Si el gráfico muestra fluctuaciones, se buscará el `k` con la precisión más consistentemente 
+
 
 **Árbol de Decisión:**
 Un modelo que usa una estructura de árbol para tomar decisiones de clasificación.
