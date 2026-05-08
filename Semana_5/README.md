@@ -9,9 +9,11 @@ El notebook está estructurado en las siguientes secciones:
 
 Breve descripción del problema y los modelos a implementar.
 
+
 **Carga de Datos:** 
 Carga del dataset Titanic utilizando la librería seaborn.
 Análisis Exploratorio de Datos (EDA): Análisis inicial de la distribución de las variables, la relación entre el sexo y la supervivencia, y la información general del dataset.
+
 
 **Preprocesamiento:** 
 Preparación de los datos para el entrenamiento de los modelos, incluyendo:
@@ -19,17 +21,22 @@ Selección de características relevantes (survived, pclass, sex, age, fare, emb
 Manejo de valores nulos (eliminación de filas con NaN).
 Transformación de variables categóricas (sex a numérico, embarked a variables dummy).
 
+
 **Separación de Datos:** 
 División del dataset en conjuntos de entrenamiento y prueba (X_train, X_test, y_train, y_test) utilizando train_test_split.
+
 
 **Modelos de Clasificación:**
 Implementación, entrenamiento y evaluación de los siguientes modelos:
 
+
 **Regresión Logística:**
 Un modelo lineal para problemas de clasificación.
 
+
 **K-Nearest Neighbors (KNN):** 
 Un algoritmo basado en la proximidad de los puntos de datos. Se incluye una optimización para encontrar el mejor valor de k.
+
 
 **Árbol de Decisión:**
 Un modelo que usa una estructura de árbol para tomar decisiones de clasificación.
@@ -38,8 +45,10 @@ Accuracy.
 Confusion Matrix (matriz de confusión) visualizada con un mapa de calor.
 Classification Report (informe de clasificación) con precisión, recall y f1-score.
 
+
 **Comparación de Modelos:**
 Un resumen y visualización de la accuracy de cada modelo para identificar el de mejor rendimiento.
+
 
 **Conclusión:** 
 Resumen de los hallazgos y la importancia de comparar diferentes algoritmos.
