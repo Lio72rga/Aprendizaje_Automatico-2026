@@ -1,4 +1,19 @@
-Predicción de Precios de Alquileres en Río Grande, Tierra del Fuego
+## Estructura del repositorio
+
+Evaluación_Parcial/
+
+├── Alquileres_RioGrande (Final).ipynb
+├── Dataset_precios_alquiler_RioGrande_Final.xlsx
+├── Informe Técnico - Predicción de Precios de Alquileres.docx
+├── Diccionario de Datos.docx
+├── README.md
+
+Archivos históricos conservados:
+- Entrega 1
+- Dataset preliminar
+- Versiones intermedias utilizadas durante el desarrollo del proyecto
+
+## Predicción de Precios de Alquileres en Río Grande, Tierra del Fuego
 
 Descripción del Proyecto:
 
