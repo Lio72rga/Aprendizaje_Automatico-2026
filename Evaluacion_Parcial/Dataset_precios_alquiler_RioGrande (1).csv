@@ -1,4 +1,4 @@
-ID;Precio;Barrio;Ciudad;Mapa ubicacion;Latitud;Longitud;Ambientes;Metros²;Tipo_propiedad;Amoblado;Antigüedad;Baños;Cochera;Mascotas_permitidas;Expensas_incluidas;Fecha_publicacion;Fecha_relevamiento;Fuentes;Id_publicacion
+ID;Precio;Barrio;Ciudad;Mapa ubicacion;Latitud;Longitud;Ambientes;MetrosÂ²;Tipo_propiedad;Amoblado;AntigÃ¼edad;BaÃ±os;Cochera;Mascotas_permitidas;Expensas_incluidas;Fecha_publicacion;Fecha_relevamiento;Fuentes;Id_publicacion
 1;400.000,00;centro;rio grande;como llegar;-53,786938;-67,708307;2;85;departamento;no;28;1;no;NaN;no;27-04-2026;16-05-2026;Mercado Libre;slc1871
 2;550.000,00;camionero;rio grande;como llegar;-53,784657;-67,724129;3;70;loft;no;20;1;si;si;no;27-04-2026;16-05-2026;Mercado Libre;slc1872
 3;600.000,00;mutual;rio grande;como llegar;-53,771053;-67,710684;3;56;duplex;semi;NaN;1;no;NaN;NaN;08/05/2026;16-05-2026;Argenprop;slc1873
@@ -57,115 +57,115 @@ ID;Precio;Barrio;Ciudad;Mapa ubicacion;Latitud;Longitud;Ambientes;Metros²;Tipo_p
 56;790.000,00;mutual;rio grande;como llegar;-53,772469;-67,710788;3;NaN;departamento;no;NaN;2;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1926
 57;600.000,00;danes;rio grande;como llegar;-53,785142;-67,715057;3;NaN;departamento;semi;NaN;1;no;NaN;NaN;23/05/2026;31-05-2026;Soluciones Inmob.;slc1927
 58;520.000,00;chacra XI;rio grande;como llegar;-53,791411;-67,711082;2;45;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1928
-59;680.000,00;chacra IV;rio grande;como llegar;-53,786497;-67,706634;3;75;departamento;no;NaN;1;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1929
+59;680.000,00;chacra IV;rio grande;como llegar;-53,786497;-67,706634;3;75;departamento;no;NaN;1;sÃ­;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1929
 60;480.000,00;buena vista;rio grande;como llegar;-53,774622;-67,723618;2;40;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1930
-61;800.000,00;centro;rio grande;como llegar;-53,782944;-67,710486;4;95;casa;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1931
+61;800.000,00;centro;rio grande;como llegar;-53,782944;-67,710486;4;95;casa;no;NaN;2;sÃ­;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1931
 62;390.000,00;vapor amadeo;rio grande;como llegar;-53,807419;-67,779917;1;25;monoambiente;no;a estrenar;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1932
-63;950.000,00;mutual;rio grande;como llegar;-53,789062;-67,707071;3;85;dúplex;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1933
+63;950.000,00;mutual;rio grande;como llegar;-53,789062;-67,707071;3;85;dÃºplex;no;NaN;2;sÃ­;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1933
 64;470.000,00;chacra XIII;rio grande;como llegar;-53,801766;-67,758179;2;50;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1934
-65;1.200.000.00;las barrancas;rio grande;como llegar;-53,758149;-67,724837;5;150;casa;sí;NaN;3;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1935
+65;1.200.000.00;las barrancas;rio grande;como llegar;-53,758149;-67,724837;5;150;casa;sÃ­;NaN;3;sÃ­;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1935
 66;430.000,00;aeropuerto;rio grande;como llegar;-53,788189;-67,748817;2;35;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1936
 67;780.000,00;centro;rio grande;como llegar;-53,786963;-67,696197;3;70;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1937
 68;560.000,00;chacra II;rio grande;como llegar;-53,782452;-67,711181;3;65;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1938
-69;720.000,00;chacra IV;rio grande;como llegar;-53,784741;-67,709719;4;80;casa;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1939
+69;720.000,00;chacra IV;rio grande;como llegar;-53,784741;-67,709719;4;80;casa;no;NaN;2;sÃ­;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1939
 70;480.000,00;buena vista;rio grande;como llegar;-53,773044;-67,727492;2;42;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1940
-71;890.000,00;centro;rio grande;como llegar;-53,789496;-67,699177;3;75;dúplex;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1941
+71;890.000,00;centro;rio grande;como llegar;-53,789496;-67,699177;3;75;dÃºplex;no;NaN;2;sÃ­;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1941
 72;410.000,00;chacra XIII;rio grande;como llegar;-53,801159;-67,752399;2;38;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1942
-73;1.050.000,00;barrancas;rio grande;como llegar;-53,757566;-67,725416;5;160;casa;sí;NaN;3;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1943
+73;1.050.000,00;barrancas;rio grande;como llegar;-53,757566;-67,725416;5;160;casa;sÃ­;NaN;3;sÃ­;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1943
 74;460.000,00;aeropuerto;rio grande;como llegar;-53,788344;-67,749675;2;36;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1944
 75;780.000,00;mutual;rio grande;como llegar;-53,771838;-67,709451;3;72;departamento;no;NaN;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1945
-76;920.000,00;chacra XI;rio grande;como llegar;-53,796141;-67,717124;4;90;casa;no;NaN;2;sí;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1946
+76;920.000,00;chacra XI;rio grande;como llegar;-53,796141;-67,717124;4;90;casa;no;NaN;2;sÃ­;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1946
 77;500.000,00;vapor amadeo;rio grande;como llegar;-53,807551;-67,779997;2;40;departamento;no;a estrenar;1;no;NaN;NaN;23/05/2026;01/06/2026;Soluciones Inmob.;slc1947
 78;620.000,00;centro;rio grande;como llegar;-53,779921;-67,713398;2;55;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1948
-79;710.000,00;centro;rio grande;como llegar;-53,782944;-67,710486;3;70;Departamento;No;NaN;1;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1949
-80;880.000,00;centro;rio grande;como llegar;-53,785072;-67,709396;4;85;Casa;No;NaN;2;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1950
+79;710.000,00;centro;rio grande;como llegar;-53,782944;-67,710486;3;70;Departamento;No;NaN;1;SÃ­;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1949
+80;880.000,00;centro;rio grande;como llegar;-53,785072;-67,709396;4;85;Casa;No;NaN;2;SÃ­;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1950
 81;470.000,00;mutual;rio grande;como llegar;-53,774051;-67,708024;2;45;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1951
-82;1.050.000,00;buena vista;rio grande;como llegar;-53,773199;-67,720604;5;150;Casa;Sí;NaN;3;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1952
+82;1.050.000,00;buena vista;rio grande;como llegar;-53,773199;-67,720604;5;150;Casa;SÃ­;NaN;3;SÃ­;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1952
 83;560.000,00;aeropuerto;rio grande;como llegar;-53,788068;-67,750855;2;40;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1953
 84;780.000,00;buena vista;rio grande;como llegar;-53,774616;-67,723369;3;72;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1954
-85;920.000,00;vapor amadeo;rio grande;como llegar;-53,807274;-67,779948;4;90;Casa;No;NaN;2;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1955
+85;920.000,00;vapor amadeo;rio grande;como llegar;-53,807274;-67,779948;4;90;Casa;No;NaN;2;SÃ­;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1955
 86;410.000,00;chacra XIII;rio grande;como llegar;-53,801027;67,752321;2;38;Departamento;No;NaN;1;No;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1956
-87;1.200.000,00;barrancas;rio grande;como llegar;-53,758343;-67,726457;5;160;Casa;Sí;NaN;3;Sí;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1957
+87;1.200.000,00;barrancas;rio grande;como llegar;-53,758343;-67,726457;5;160;Casa;SÃ­;NaN;3;SÃ­;NaN;NaN;01/06/2026;01/06/2026;Soluciones Inmob.;slc1957
 88;720.000,00;Centro;rio grande;como llegar;-53,785456;-67,703023;2;55;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1968
-89;950.000,00;Chacra II;rio grande;como llegar;-53,766013;-67,723367;3;80;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1969
+89;950.000,00;Chacra II;rio grande;como llegar;-53,766013;-67,723367;3;80;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1969
 90;680.000.00;mutual;rio grande;como llegar;-53,773033;-67,706719;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1970
-91;1.150.000,00;barrancas;rio grande;como llegar;-53,759757;-67,725835;4;140;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1971
-92;850.000,00;buena vista;rio grande;como llegar;-53,771649;-67,717943;3;75;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1972
+91;1.150.000,00;barrancas;rio grande;como llegar;-53,759757;-67,725835;4;140;Casa;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1971
+92;850.000,00;buena vista;rio grande;como llegar;-53,771649;-67,717943;3;75;Casa;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1972
 93;620.000,00;aeropuerto;rio grande;como llegar;-53,788068;-67,748859;2;45;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1973
-94;780.000,00;centro;rio grande;Av. Belgrano 980;-53,786591;-67,701911;2;60;Departamento;Sí;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1974
-95;1.350.000,00;vapor amadeo;rio grande;BºVapor Amadeo;-537,81911;-677,14911;5;180;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1975
-96;890.000,00;chacra XIII;rio grande;Bº Chacra XIII;-537,69191;-677,22911;3;85;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1976
+94;780.000,00;centro;rio grande;Av. Belgrano 980;-53,786591;-67,701911;2;60;Departamento;SÃ­;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1974
+95;1.350.000,00;vapor amadeo;rio grande;BÂºVapor Amadeo;-537,81911;-677,14911;5;180;Casa;SÃ­;3;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1975
+96;890.000,00;chacra XIII;rio grande;BÂº Chacra XIII;-537,69191;-677,22911;3;85;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1976
 97;730.000,00;mutual;rio grande;Mutual;-537,74911;-677,19111;2;58;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1977
-98;990.000,00;buena vista;rio grande;Bº Buena Vista;-537,71911;-677,18911;4;110;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1978
-99;610.000,00;aeropuerto;rio grande;Bº Aeropuerto;-537,88911;-677,48911;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1979
-100;1.280.000,00;barrancas;rio grande;Bº Barrancas;-537,59911;-677,25911;5;170;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1980
-101;760.000,00;centro;rio grande;Av. San Martín 1200;-53,786591;-67,701911;3;68;Departamento;Sí;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1981
-102;840.000,00;chacra II;rio grande;Bº Chacra II;-537,73919;-677,06919;3;78;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1982
-103;690.000,00;vapor amadeo;rio grande;Bº Vapor Amadeo;-537,81911;-677,14911;2;52;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1983
-104;1.080.000,00;buena vista;rio grande;Bº Buena Vista;-537,71911;-677,18911;4;125;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1984
-105;740.000,00;centro;rio grande;Perito Moreno 450;-53,787668;-67,700679;2;62;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1985
-106;580.000,00;aeropuerto;rio grande;Bº Aeropuerto;-537,88911;-677,48911;1;38;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1986
-107;1.420.000,00;barrancas;rio grande;Barrio Barrancas;-537,59911;-677,25911;6;210;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1987
+98;990.000,00;buena vista;rio grande;BÂº Buena Vista;-537,71911;-677,18911;4;110;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1978
+99;610.000,00;aeropuerto;rio grande;BÂº Aeropuerto;-537,88911;-677,48911;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1979
+100;1.280.000,00;barrancas;rio grande;BÂº Barrancas;-537,59911;-677,25911;5;170;Casa;SÃ­;3;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1980
+101;760.000,00;centro;rio grande;Av. San MartÃ­n 1200;-53,786591;-67,701911;3;68;Departamento;SÃ­;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1981
+102;840.000,00;chacra II;rio grande;BÂº Chacra II;-537,73919;-677,06919;3;78;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1982
+103;690.000,00;vapor amadeo;rio grande;BÂº Vapor Amadeo;-537,81911;-677,14911;2;52;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1983
+104;1.080.000,00;buena vista;rio grande;BÂº Buena Vista;-537,71911;-677,18911;4;125;Casa;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1984
+105;740.000,00;centro;rio grande;Perito Moreno 450;-53,787668;-67,700679;2;62;Departamento;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1985
+106;580.000,00;aeropuerto;rio grande;BÂº Aeropuerto;-537,88911;-677,48911;1;38;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Austral;slc1986
+107;1.420.000,00;barrancas;rio grande;Barrio Barrancas;-537,59911;-677,25911;6;210;Casa;SÃ­;3;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Mac Rae Propiedades;slc1987
 108; $450,00;Chacra XI;rio grande;Chacra XI;null;null;2;25;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat148
 109; $370,00;Chacra IX;rio grande;Chacra IX;null;null;1;30;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat149
 110; $690,00;Centro;rio grande;Plaza Almirante Brown;null;null;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat150
-111; $840,00;Centro;rio grande;Fagnano 800;null;null;3;60;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat151
+111; $840,00;Centro;rio grande;Fagnano 800;null;null;3;60;Departamento;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat151
 112; $330,00;Punta Popper;rio grande;Punta Popper;null;null;2;40;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat152
 113; $600,00;Mutual;rio grande;Barrio Mutual;null;null;3;40;Oficina;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat153
-114; $820,00;Chacra IV;rio grande;Barrio Chacra IV;null;null;4;87;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat154
-115;1.180.000;Centro;rio grande;Zona Centro;null;null;4;130;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat155
-116;1.200.000;Chacra II;rio grande;Barrio La Flor;null;null;4;130;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat156
-117;1.100.000;Chacra IV;rio grande;Barrio Chacra IV;null;null;4;90;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat157
-118;1.350.000;Chacra II;rio grande;Chacra II;null;null;5;120;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat158
-119;2.000.000;Mutual;rio grande;Barrio Mutual;null;null;5;200;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat159
-120;2.400.000;Barrancas;rio grande;Barrio Barrancas;null;null;7;190;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat160
-121;1.500.000;Profesionales;rio grande;Barrio Profesionales;null;null;5;140;Departamento;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat161
-122;1.500.000;Centro;rio grande;Zona Centro;null;null;4;200;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat162
+114; $820,00;Chacra IV;rio grande;Barrio Chacra IV;null;null;4;87;Casa;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat154
+115;1.180.000;Centro;rio grande;Zona Centro;null;null;4;130;Casa;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat155
+116;1.200.000;Chacra II;rio grande;Barrio La Flor;null;null;4;130;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat156
+117;1.100.000;Chacra IV;rio grande;Barrio Chacra IV;null;null;4;90;Casa;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat157
+118;1.350.000;Chacra II;rio grande;Chacra II;null;null;5;120;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat158
+119;2.000.000;Mutual;rio grande;Barrio Mutual;null;null;5;200;Casa;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat159
+120;2.400.000;Barrancas;rio grande;Barrio Barrancas;null;null;7;190;Casa;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat160
+121;1.500.000;Profesionales;rio grande;Barrio Profesionales;null;null;5;140;Departamento;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat161
+122;1.500.000;Centro;rio grande;Zona Centro;null;null;4;200;Casa;SÃ­;3;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat162
 123; $620,00;Malvinas Argentinas;rio grande;Chacra XIII;null;null;3;55;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat163
 124; $670,00;Centro;rio grande;Belgrano 650;null;null;2;48;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat164
-125; $740,00;Centro;rio grande;Rosales 430;null;null;3;58;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat165
-126; $920,00;Chacra II;rio grande;Chacra II;null;null;4;95;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat166
-127;1.050.000;Buena Vista;rio grande;Buena Vista;null;null;4;118;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat167
+125; $740,00;Centro;rio grande;Rosales 430;null;null;3;58;Departamento;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat165
+126; $920,00;Chacra II;rio grande;Chacra II;null;null;4;95;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat166
+127;1.050.000;Buena Vista;rio grande;Buena Vista;null;null;4;118;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat167
 128; $580,00;Punta Popper;rio grande;Punta Popper;null;null;2;45;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat168
-129; $790,00;Centro;rio grande;Av. San Martín 1100;null;null;3;64;Departamento;Sí;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat169
-130;1.180.000;Chacra IV;rio grande;Chacra IV;null;null;4;110;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat170
-131;1.260.000;Barrancas;rio grande;Barrancas;null;null;5;155;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat171
+129; $790,00;Centro;rio grande;Av. San MartÃ­n 1100;null;null;3;64;Departamento;SÃ­;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat169
+130;1.180.000;Chacra IV;rio grande;Chacra IV;null;null;4;110;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat170
+131;1.260.000;Barrancas;rio grande;Barrancas;null;null;5;155;Casa;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat171
 132; $520,00;Chacra XIII;rio grande;Chacra XIII;null;null;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat172
-133; $870,00;Mutual;rio grande;Mutual;null;null;3;82;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat173
-134; $760,00;Centro;rio grande;Perito Moreno 900;null;null;3;62;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat174
-135; $940,00;Vapor Amadeo;rio grande;Vapor Amadeo;null;null;4;90;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat175
+133; $870,00;Mutual;rio grande;Mutual;null;null;3;82;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat173
+134; $760,00;Centro;rio grande;Perito Moreno 900;null;null;3;62;Departamento;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat174
+135; $940,00;Vapor Amadeo;rio grande;Vapor Amadeo;null;null;4;90;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat175
 136; $690,00;Austral;rio grande;Austral;null;null;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat176
-137;1.380.000;Chacra II;rio grande;Chacra II;null;null;5;125;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat177
-138; $450,00;Chacra XI;Río Grande;Chacra XI;null;null;2;25;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat148
-139; $370,00;Chacra IX;Río Grande;Chacra IX;null;null;1;30;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat149
-140; $690,00;Centro;Río Grande;Plaza Almirante Brown;null;null;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat150
-141; $840,00;Centro;Río Grande;Fagnano 800;-53,788096;-67,700189;3;60;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat151
-142; $330,00;Punta Popper;Río Grande;Punta Popper;null;null;2;40;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat152
-143; $600,00;Mutual;Río Grande;Barrio Mutual;null;null;3;40;Oficina;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat153
-144; $820,00;Chacra IV;Río Grande;Barrio Chacra IV;null;null;4;87;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat154
-145;1.180.000;Centro;Río Grande;Zona Centro;null;null;4;130;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat155
-146;1.200.000;Chacra II;Río Grande;Barrio La Flor;null;null;4;130;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat156
-147;1.100.000;Chacra IV;Río Grande;Barrio Chacra IV;null;null;4;90;Casa;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat157
-148;1.350.000;Chacra II;Río Grande;Chacra II;null;null;5;120;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat158
-149;2.000.000;Mutual;Río Grande;Barrio Mutual;null;null;5;200;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat159
-150;2.400.000;Barrancas;Río Grande;Barrio Barrancas;null;null;7;190;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat160
-151;1.500.000;Profesionales;Río Grande;Barrio Profesionales;null;null;5;140;Departamento;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat161
-152;1.500.000;Centro;Río Grande;Zona Centro;null;null;4;200;Casa;Sí;3;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat162
-153; $620,00;Malvinas Argentinas;Río Grande;Chacra XIII;null;null;3;55;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat163
-154; $670,00;Centro;Río Grande;Belgrano 650;null;null;2;48;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat164
-155; $740,00;Centro;Río Grande;Rosales 430;null;null;3;58;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat165
-156; $920,00;Chacra II;Río Grande;Chacra II;null;null;4;95;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat166
-157;1.050.000;Buena Vista;Río Grande;Buena Vista;null;null;4;118;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat167
-158; $580,00;Punta Popper;Río Grande;Punta Popper;null;null;2;45;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat168
-159; $790,00;Centro;Río Grande;Av. San Martín 1100;null;null;3;64;Departamento;Sí;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat169
-160;1.180.000;Chacra IV;Río Grande;Chacra IV;null;null;4;110;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat170
-161;1.260.000;Barrancas;Río Grande;Barrancas;null;null;5;155;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat171
-162; $520,00;Chacra XIII;Río Grande;Chacra XIII;null;null;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat172
-163; $870,00;Mutual;Río Grande;Mutual;null;null;3;82;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat173
-164; $760,00;Centro;Río Grande;Perito Moreno 900;null;null;3;62;Departamento;No;1;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat174
-165; $940,00;Vapor Amadeo;Río Grande;Vapor Amadeo;null;null;4;90;Casa;No;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat175
-166; $690,00;Austral;Río Grande;Austral;null;null;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat176
-167;1.380.000;Chacra II;Río Grande;Chacra II;null;null;5;125;Casa;Sí;2;Sí;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat177
+137;1.380.000;Chacra II;rio grande;Chacra II;null;null;5;125;Casa;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat177
+138; $450,00;Chacra XI;RÃ­o Grande;Chacra XI;null;null;2;25;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat148
+139; $370,00;Chacra IX;RÃ­o Grande;Chacra IX;null;null;1;30;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat149
+140; $690,00;Centro;RÃ­o Grande;Plaza Almirante Brown;null;null;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat150
+141; $840,00;Centro;RÃ­o Grande;Fagnano 800;-53,788096;-67,700189;3;60;Departamento;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat151
+142; $330,00;Punta Popper;RÃ­o Grande;Punta Popper;null;null;2;40;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat152
+143; $600,00;Mutual;RÃ­o Grande;Barrio Mutual;null;null;3;40;Oficina;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat153
+144; $820,00;Chacra IV;RÃ­o Grande;Barrio Chacra IV;null;null;4;87;Casa;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat154
+145;1.180.000;Centro;RÃ­o Grande;Zona Centro;null;null;4;130;Casa;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat155
+146;1.200.000;Chacra II;RÃ­o Grande;Barrio La Flor;null;null;4;130;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat156
+147;1.100.000;Chacra IV;RÃ­o Grande;Barrio Chacra IV;null;null;4;90;Casa;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat157
+148;1.350.000;Chacra II;RÃ­o Grande;Chacra II;null;null;5;120;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat158
+149;2.000.000;Mutual;RÃ­o Grande;Barrio Mutual;null;null;5;200;Casa;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat159
+150;2.400.000;Barrancas;RÃ­o Grande;Barrio Barrancas;null;null;7;190;Casa;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat160
+151;1.500.000;Profesionales;RÃ­o Grande;Barrio Profesionales;null;null;5;140;Departamento;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat161
+152;1.500.000;Centro;RÃ­o Grande;Zona Centro;null;null;4;200;Casa;SÃ­;3;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat162
+153; $620,00;Malvinas Argentinas;RÃ­o Grande;Chacra XIII;null;null;3;55;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat163
+154; $670,00;Centro;RÃ­o Grande;Belgrano 650;null;null;2;48;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat164
+155; $740,00;Centro;RÃ­o Grande;Rosales 430;null;null;3;58;Departamento;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat165
+156; $920,00;Chacra II;RÃ­o Grande;Chacra II;null;null;4;95;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat166
+157;1.050.000;Buena Vista;RÃ­o Grande;Buena Vista;null;null;4;118;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat167
+158; $580,00;Punta Popper;RÃ­o Grande;Punta Popper;null;null;2;45;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat168
+159; $790,00;Centro;RÃ­o Grande;Av. San MartÃ­n 1100;null;null;3;64;Departamento;SÃ­;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat169
+160;1.180.000;Chacra IV;RÃ­o Grande;Chacra IV;null;null;4;110;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat170
+161;1.260.000;Barrancas;RÃ­o Grande;Barrancas;null;null;5;155;Casa;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat171
+162; $520,00;Chacra XIII;RÃ­o Grande;Chacra XIII;null;null;2;42;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat172
+163; $870,00;Mutual;RÃ­o Grande;Mutual;null;null;3;82;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat173
+164; $760,00;Centro;RÃ­o Grande;Perito Moreno 900;null;null;3;62;Departamento;No;1;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat174
+165; $940,00;Vapor Amadeo;RÃ­o Grande;Vapor Amadeo;null;null;4;90;Casa;No;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat175
+166; $690,00;Austral;RÃ­o Grande;Austral;null;null;2;50;Departamento;No;1;No;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat176
+167;1.380.000;Chacra II;RÃ­o Grande;Chacra II;null;null;5;125;Casa;SÃ­;2;SÃ­;No;NaN;NaN;02-06-2026;03/06/2026;Inmobiliaria Latitud;lat177
 168;;;;;;;;;;;;;;;;;;;
 169;;;;;;;;;;;;;;;;;;;
 170;;;;;;;;;;;;;;;;;;;
