@@ -3,9 +3,13 @@
 Evaluación_Parcial/
 
 ├── Alquileres_RioGrande (Final).ipynb
+
 ├── Dataset_precios_alquiler_RioGrande_Final.xlsx
+
 ├── Informe Técnico - Predicción de Precios de Alquileres.docx
+
 ├── Diccionario de Datos.docx
+
 ├── README.md
 
 Archivos históricos conservados:
