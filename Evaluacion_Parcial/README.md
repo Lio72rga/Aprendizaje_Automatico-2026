@@ -1,4 +1,4 @@
-## # Predicción de Precios de Alquileres en Río Grande
+##  Predicción de Precios de Alquileres en Río Grande
 
 ## Aprendizaje Automático 2026 – Evaluación Parcial
 
